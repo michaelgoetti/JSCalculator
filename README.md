@@ -1,1 +1,1 @@
-# JSCalculaor
+# JSCalculator
